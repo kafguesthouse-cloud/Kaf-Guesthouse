@@ -1,0 +1,6 @@
+{
+  "name": "ካፍ ሀላል ገስት ሀውስ",
+  "description": "የ16 ክፍሎች የገስት ሀውስ አስተዳደር፣ የእንግዶች መግቢያ እና መውጫ፣ ማስያዣ እና የቀሪ ቀናት መቆጣጠሪያ መተግበሪያ።",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
